@@ -11,3 +11,21 @@ nav{
     text-decoration: none;
     padding:0px 20px 0px 20px;
 }
+.mainLayout{
+    display:flex;
+    flex-wrap: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.mainLayout div:first-child {
+    width: 35%;
+}
+.mainLayout div:last-child {
+    width: 60%;
+}
+.profilePic{
+    border-radius: 50%;
+    height: 400px;
+    width:400px;
+    display: inline-block;
+}

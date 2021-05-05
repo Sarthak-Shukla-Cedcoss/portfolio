@@ -9,7 +9,6 @@ export default function Header() {
                 </div>
                 <div className="nav-links">
                     <a href="#">About</a>
-                    <a href="#">About</a>
                     <a href="#">Skills</a>
                     <a href="#">Projects</a>
                     <a href="#">Contact</a>
