@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Index from './Components';
 
 function App() {
   return (
-    <div>
-      hello
-    </div>
+    <>
+   <Index/>
+    </>
   );
 }
 
