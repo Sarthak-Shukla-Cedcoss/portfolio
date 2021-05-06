@@ -13,19 +13,44 @@ nav{
 }
 .mainLayout{
     display:flex;
-    flex-wrap: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     flex-direction: row;
 }
-.mainLayout div:first-child {
+.left {
     width: 35%;
+    text-align: center;
 }
-.mainLayout div:last-child {
-    width: 60%;
+.right {
+    width: 57%;
 }
 .profilePic{
     border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 400px;
     width:400px;
+    opacity: 0.9;
+    transition: transform .3s;
     display: inline-block;
+}
+.profilePic:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+.badge{
+    border-radius: 10px;
+    margin: 1px;
+    padding:2px 6px;
+    background-color: burlywood;
+}
+.badge:hover{
+    background-color: cadetblue;
+}
+.flexlayout{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    vertical-align: middle;
+    flex-direction: row;
 }

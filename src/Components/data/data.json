@@ -1,0 +1,48 @@
+{
+    "name": "Sarthak Shukla",
+    "about": "I am Full Stack Developer With Six months Experience, specialized in React Framework with basic knowledge of Docker. I have completed my Graduation in Computer Science in 2020",
+    "projects": {
+        "summary": "my Projects",
+        "projects": [
+            {
+                "name": "First Project",
+                "description": "kjaghkjhakis"
+            },
+            {
+                "name": "Second Project",
+                "description": "kjaghkjhakis"
+            }
+        ]
+    },
+    "skills": {
+        "summary": "Skills Projects",
+        "topskill":["React","HTML","CSS","React","HTML","CSS","React","HTML","CSS","React","HTML","CSS"],
+        "skillset": "HTML,CSS,React,C,C++,Python"
+    },
+    "contact": {
+        "phone": [9559075600,8896490218],
+        "mail":["sarthakshukla@cedcommerce.com","sarthak1shukla@gmail.com"],
+        "address": {
+            "enable": true,
+            "street": "41-a new azad nagar",
+            "locality": "kalyanpur",
+            "city": "kanpur",
+            "state": "UP",
+            "pincode": 208017
+        },
+        "social": [
+            {
+                "account": "github",
+                "url": "https://github.com/Sarthak-Shukla-Cedcoss"
+            },
+            {
+                "account": "linkedin",
+                "url": "https://github.com/Sarthak-Shukla-Cedcoss"
+            },
+            {
+                "account": "twitter",
+                "url": "https://github.com/Sarthak-Shukla-Cedcoss"
+            }
+        ]
+    }
+}
